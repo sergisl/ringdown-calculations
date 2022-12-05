@@ -10,4 +10,4 @@ A collection of notebooks for black hole perturbation theory calculations in GR 
   **Summary of contents**: This notebook contains all calculations starting from the covariant action to the final Fisher parameter estimation and all details in between (quadratic action, modified Regge-Wheeler equation, scalar hair and other parametrizations, quasinormal mode calculation, construction of waveform with relevant parameters, calculation of SNR and errors, plots).
 
 
-*To open any of these notebooks, select "View Raw" file, select all text (Ctrl A), copy it (Ctrl C), paste it (Ctrl V) into an empty Mathematica page and select "Yes" to interpreting the text.*
+*To open any of these notebooks, click on "View Raw" file, select all text (Ctrl A), copy it (Ctrl C), paste it (Ctrl V) into an empty Mathematica page and select "Yes" to interpreting the text.*
