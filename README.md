@@ -9,6 +9,12 @@ A collection of notebooks for black hole perturbation theory calculations in GR 
 
   **Summary of contents**: This notebook contains all calculations starting from the covariant action to the final Fisher parameter estimation and all details in between (quadratic action, modified Regge-Wheeler equation, scalar hair and other parametrizations, quasinormal mode calculation, construction of waveform with relevant parameters, calculation of SNR and errors, plots).
 
+- [Stability-QNMs-SdS-t-dep](https://github.com/sergisl/ringdown-calculations/blob/main/Stability-QNMs-SdS-t-dep.nb): companion notebook to the paper [[2408.XXXX]](https://arxiv.org/abs/2408.XXXX), where we investigate the stability and quasinormal modes of black holes with time-dependent scalar hair.
+
+  **Summary of contents**: This notebook contains all calculations starting from the covariant action to the final Fisher parameter estimation and all details in between (background equations of motion, quadratic action, stability conditions, modified Regge-Wheeler equation, WKB quasinormal mode calculation, construction of waveform with relevant parameters, calculation of SNR and errors).
+
+  - [plots-Stability-QNMs-SdS-t-dep](https://github.com/sergisl/ringdown-calculations/blob/main/plots-Stability-QNMs-SdS-t-dep.ipynb): python code for all plots in [[2408.XXXX]](https://arxiv.org/abs/2408.XXXX).
+
 
 > *These notebooks make use of the computer algebra package [xAct](http://www.xact.es/index.html), so their correct evaluation requires the prior installation of xAct. [Installation files](http://www.xact.es/download.html) are freely available together with [extensive documentation](http://www.xact.es/documentation.html).*
 
