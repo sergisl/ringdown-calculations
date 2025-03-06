@@ -1,4 +1,6 @@
 # ringdown-calculations
+![ringcalcs-logo](https://github.com/sergisl/ringdown-calculations/blob/main/ringdcalcs-logo.png)
+
 A collection of notebooks for black hole perturbation theory calculations in GR and modified gravity.
 
 - [Schwarzschild-GR](https://github.com/sergisl/ringdown-calculations/blob/main/Schwarzschild-GR.nb): derivation of Regge-Wheeler and Zerilli equations for a Schwarzschild black hole in GR by applying the perturbations at the level of the action.
