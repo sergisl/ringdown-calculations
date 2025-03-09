@@ -1,11 +1,9 @@
 # ringdown-calculations
 ![ringcalcs-logo](https://github.com/sergisl/ringdown-calculations/blob/main/ringdcalcs-logo.png)
 
-A collection of notebooks for black hole perturbation theory calculations in GR and modified gravity.
+This repository contains a collection of notebooks for black hole perturbation theory calculations in scalar-tensor theories of gravity. These notebooks are adaptable to the study of different back hole spacetimes in different theories.
 
-- [Schwarzschild-GR](https://github.com/sergisl/ringdown-calculations/blob/main/Schwarzschild-GR.nb): derivation of Regge-Wheeler and Zerilli equations for a Schwarzschild black hole in GR by applying the perturbations at the level of the action.
-
-- [Schwarzschild-Horndeski](https://github.com/sergisl/ringdown-calculations/blob/main/Schwarzschild-Horndeski.nb): derivation of 3 master equations (gravitational odd, gravitational even, scalar even) for a Schwarzschild black hole in Horndeski gravity.
+- [Basic-examples](https://github.com/sergisl/ringdown-calculations/tree/main/Basic-examples): In this folder you can find two basic examples for the application of black hole perturbation theory in GR and Horndeski gravity.
 
 - [Testing-speed-gravity](https://github.com/sergisl/ringdown-calculations/blob/main/Testing-speed-gravity.nb): companion notebook to the paper [[2301.10272]](https://arxiv.org/abs/2301.10272), where we investigate how the speed of gravitational waves can be tested with ringdown observations. We focus on odd parity quasinormal modes of hairy black holes in Horndeski theories.
 
@@ -18,6 +16,10 @@ A collection of notebooks for black hole perturbation theory calculations in GR 
 
   - [plots-Stability-QNMs-SdS-t-dep](https://github.com/sergisl/ringdown-calculations/blob/main/plots-Stability-QNMs-SdS-t-dep.ipynb): python code for all plots in [[2408.01720]](https://arxiv.org/abs/2408.01720).
 
+- [Inverting-no-hair-theorems](https://github.com/sergisl/ringdown-calculations/tree/main/Inverting-no-hair-theorems): companion notebooks and precomputed expressions to the paper [[2503.XXXX]](https://arxiv.org/abs/2503.XXXX), where we investigate stealth black holes solutions in cubic/qadratic higher-order scalar-tensor (HOST) theories both at the background and perturbative levels.
+
+If you use resources found here, please cite the repository and the corresponding works.
+For any questions or suggestions, email me at sergi.sirera-lahoz@port.ac.uk.
 
 > *These notebooks make use of the computer algebra package [xAct](http://www.xact.es/index.html), so their correct evaluation requires the prior installation of xAct. [Installation files](http://www.xact.es/download.html) are freely available together with [extensive documentation](http://www.xact.es/documentation.html).*
 
