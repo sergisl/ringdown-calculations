@@ -19,7 +19,7 @@ This repository contains a collection of notebooks for black hole perturbation t
 - [Inverting-no-hair-theorems](https://github.com/sergisl/ringdown-calculations/tree/main/Inverting-no-hair-theorems): companion notebooks and precomputed expressions to the paper [[2503.05651]](https://arxiv.org/abs/2503.05651), where we investigate stealth black holes solutions in cubic/qadratic higher-order scalar-tensor (HOST) theories both at the background and perturbative levels.
 
 If you use resources found here, please cite the repository and the corresponding works.
-For any questions or suggestions, email me at sergi.sirera-lahoz@port.ac.uk.
+For any questions or suggestions, email me at sergi.sirera@port.ac.uk.
 
 > *These notebooks make use of the computer algebra package [xAct](http://www.xact.es/index.html), so their correct evaluation requires the prior installation of xAct. [Installation files](http://www.xact.es/download.html) are freely available together with [extensive documentation](http://www.xact.es/documentation.html).*
 
